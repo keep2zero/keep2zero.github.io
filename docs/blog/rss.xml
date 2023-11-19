@@ -4,7 +4,7 @@
         <title>CX OPEN SOURCE Blog</title>
         <link>https://keep2zero.github.io/blog</link>
         <description>CX OPEN SOURCE Blog</description>
-        <lastBuildDate>Sun, 19 Nov 2023 02:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Nov 2023 03:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[即将到来]]></title>
             <link>https://keep2zero.github.io/blog/intro</link>
             <guid>https://keep2zero.github.io/blog/intro</guid>
-            <pubDate>Sun, 19 Nov 2023 02:32:51 GMT</pubDate>
+            <pubDate>Sun, 19 Nov 2023 03:41:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
