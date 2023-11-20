@@ -24,6 +24,6 @@ flutter pub add flutter_cxui
 
 |        |   |
 | ----------- | ----------- |
-| <img src="static/movie_home.png" width="" />      | <img src="static/movie_item.png" width="" />       |
+| ![movie home](static/movie_home.png)       |  ![movie item](static/movie_item.png)      |
  
 
