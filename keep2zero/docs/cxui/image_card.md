@@ -10,7 +10,7 @@ sidebar_position: 6
 
 | 属性名 | 类型| 默认 | 说明|
 | ------  | ---- | --- | --- |
-| title | | String | | 标题 |
+| title |String |  | 标题 |
 | subtitle | String | | 子标题 |
 | img | String | | 图片地址 |
 | imgIsNet | bool  | false | 是否网络图片 |
