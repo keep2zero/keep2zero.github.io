@@ -3,7 +3,7 @@ sidebar_position: 6
 ---
 
 # Image Card
-
+![Image Card](static/image_card.png)
 ## API
 
 ### 属性

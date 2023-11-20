@@ -12,3 +12,18 @@ CXUI是一种基于Flutter的组件库，旨在帮助开发者快速构建多端
 ```dart
 flutter pub add flutter_cxui
 ```
+
+## 部分展示
+
+|||
+|--|--|
+|![home]( static/list.png)|![place_grid](static/place_grid.png)|
+|![icon_button](static/icon_button.png)|![select_button_list](static/select_button_list.png)|
+|![image_card](static/image_card.png)|![card](static/card.png)|
+|![title_nav](static/title_nav.png)|![slider](static/slider.jpg)|
+
+|        |   |
+| ----------- | ----------- |
+| <img src="static/movie_home.png" width="" />      | <img src="static/movie_item.png" width="" />       |
+ 
+
