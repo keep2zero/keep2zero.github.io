@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Slider View
 
-<img src="static/slider.jpg" width="300" alt="Slider View" />
+<img src="/slider.jpg" width="300" alt="Slider View" />
 
 ## API
 

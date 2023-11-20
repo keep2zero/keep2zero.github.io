@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # Place Grid
 
-<img src="static/place_grid.png" width="300" alt="Place Grid" />
+<img src="/place_grid.png" width="300" alt="Place Grid" />
 
 ## API
 

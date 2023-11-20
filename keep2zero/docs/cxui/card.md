@@ -1,11 +1,11 @@
 ---
 sidebar_position: 5
 ---
-import CardPng from './static/card.png';
+ 
 
 # Card
 
-<img src={CardPng} width="300" alt="Card" />
+<img src='/card.png' width="300" alt="Card" />
 
 ## API
 

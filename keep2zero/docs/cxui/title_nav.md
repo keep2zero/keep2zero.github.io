@@ -6,7 +6,7 @@ sidebar_position: 4
 
 ## API
 
-<img src="static/title_nav.png" width="300" alt="Title Nav" />
+<img src="/title_nav.png" width="300" alt="Title Nav" />
 
 ### 属性
 

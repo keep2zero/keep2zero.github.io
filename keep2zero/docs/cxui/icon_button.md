@@ -3,11 +3,10 @@
 sidebar_position: 2
 
 ---
-import IconButton from './static/icon_button.png';
-
+ 
 # Icon Button
 
-<img src={IconButton} width="300" alt="Icon Button" />
+<img src='/icon_button.png' width="300" alt="Icon Button" />
 
 ## API
 

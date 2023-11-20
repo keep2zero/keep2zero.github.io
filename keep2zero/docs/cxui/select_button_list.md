@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Select Button List
 
-<img src="static/select_button_list.png" width="300" alt="Select Button List" />
+<img src="/select_button_list.png" width="300" alt="Select Button List" />
 
 ## API
 
