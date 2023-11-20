@@ -15,6 +15,14 @@ sidebar_position: 8
 | titleColor | Color | Colors.white | 标题颜色 |
 | titleSize | double | 12 | 标题大小 |
 
+```Dart
+class SliderObject {
+  String objName; //标题
+  String objCover; //图片
+  SliderObject(this.objName, this.objCover);
+}
+```
+
 ### 方法
 
 | 属性名 | 类型| 默认 | 说明|
