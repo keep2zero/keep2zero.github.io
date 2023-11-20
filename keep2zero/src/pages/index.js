@@ -37,6 +37,14 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+
+        <div className={styles.sponsor}>
+          <h3>赞助</h3>
+          <p>谢谢大家支持! </p>
+          <div>
+            <img src="/reward.jpg" />
+          </div>
+        </div>
       </main>
     </Layout>
   );

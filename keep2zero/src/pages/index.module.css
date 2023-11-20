@@ -21,3 +21,14 @@
   align-items: center;
   justify-content: center;
 }
+
+.sponsor {
+  text-align: center;
+  background-color: #303846;
+  padding: 50px 0;
+  color: #ffeeee;
+}
+
+.sponsor img {
+  height: 200px;
+}
