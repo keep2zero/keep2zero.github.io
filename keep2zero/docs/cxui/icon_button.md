@@ -4,7 +4,7 @@ sidebar_position: 2
 
 ---
 
-# ICON BUTTON
+# Icon Button
 
 ## API
 

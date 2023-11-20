@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# SELECT BUTTON LIST
+# Select Button List
 
 ## API
 
