@@ -4,6 +4,8 @@ sidebar_position: 5
 
 # Card
 
+<img src="static/card.png" width="300" alt="Card" />
+
 ## API
 
 ### 属性

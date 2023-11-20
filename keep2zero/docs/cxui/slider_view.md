@@ -4,6 +4,8 @@ sidebar_position: 8
 
 # Slider View
 
+<img src="static/slider.jpg" width="300" alt="Slider View" />
+
 ## API
 
 ### 属性

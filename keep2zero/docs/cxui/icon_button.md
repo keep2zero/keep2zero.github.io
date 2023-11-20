@@ -6,6 +6,8 @@ sidebar_position: 2
 
 # Icon Button
 
+<img src="static/icon_button.png" width="300" alt="Icon Button" />
+
 ## API
 
 ### 属性
