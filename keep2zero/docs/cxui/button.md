@@ -20,7 +20,7 @@ sidebar_position: 8
 |icon|IconData||icon data.|
 |iconSize|double|16|icon size.|
 |textSize|double|12|text size.|
-|type|CxButtonType|solid|button type. `fill` and `solid` are the two states of the button.|
+|type|CxButtonType|solid|button type. `fill`, `solid`, `text` are the states of the button.|
 |color|Color|blue|button color.|
 |textColor|Color|white|the label color.|
 |iconColor|Color|white |the icon color.|
