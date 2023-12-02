@@ -8,9 +8,9 @@ const FeatureList = [
     title: 'CX UI',
     img: require('@site/static/img/cxui-logo.png').default,
     description: (
-      <>
+      <div>
         An interface UI component based on Flutter.
-      </>
+      </div>
     ),
   },
   
