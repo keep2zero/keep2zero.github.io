@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/cxui">
-            马上开始 - 5min ⏱️
+            Get Started - 1min ⏱️
           </Link>
         </div>
       </div>
@@ -39,8 +39,8 @@ export default function Home() {
         <HomepageFeatures />
 
         <div className={styles.sponsor}>
-          <h3>赞助</h3>
-          <p>谢谢大家支持! </p>
+          <h3>Sponsor</h3>
+          <p>Thank you for your support! </p>
           <div>
             <img src="/reward.jpg" />
           </div>

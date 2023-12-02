@@ -10,21 +10,21 @@ sidebar_position: 2
 
 ## API
 
-### 属性
+### Properties
 
-| 属性名 | 类型| 默认 | 说明|
+| Property | Type| Default Value | Description|
 | ------  | ---- | --- | --- |
-| icon | IconData | | 图标 |
-| size | double | 16 | ICON大小 |
-| color | Color | Colors.black | ICON颜色 |
-| bgColor | Color |  | 背景色 |
-| hoverColor | Color | Colors.black.withAlpha(200) | hover的颜色 |
-| focusColor | Color | Colors.black.withAlpha(100) | 焦点颜色 |
-| clickColor | Color | Colors.black87 | 点击颜色 |
-| padding | double | 6 | 内间隙 |
+| icon | IconData | | cion data |
+| size | double | 16 | icon size |
+| color | Color | Colors.black | icon color |
+| bgColor | Color |  | background color |
+| hoverColor | Color | Colors.black.withAlpha(200) | hover color |
+| focusColor | Color | Colors.black.withAlpha(100) | focus color |
+| clickColor | Color | Colors.black87 | change the color when icon is be clicked. |
+| padding | double | 6 | box padding |
 
-### 方法
+### Methods
 
-| 方法名 | 类型 | 说明 |
+| Method | Type | Description |
 | ------| --- | ---- |
-| click | void Function() | 点击事件 |
+| click | void Function() | click event |

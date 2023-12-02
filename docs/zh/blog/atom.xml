@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://keep2zero.github.io/zh/blog</id>
+    <title>CX OPEN SOURCE Blog</title>
+    <updated>2023-11-19T03:41:19.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://keep2zero.github.io/zh/blog"/>
+    <subtitle>CX OPEN SOURCE Blog</subtitle>
+    <icon>https://keep2zero.github.io/zh/img/cx-logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[即将到来]]></title>
+        <id>https://keep2zero.github.io/zh/blog/intro</id>
+        <link href="https://keep2zero.github.io/zh/blog/intro"/>
+        <updated>2023-11-19T03:41:19.000Z</updated>
+        <author>
+            <name>Tonway Wu</name>
+            <uri>https://github.com/keep2zero</uri>
+        </author>
+    </entry>
+</feed>

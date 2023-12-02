@@ -1,6 +1,7 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import Translate from '@docusaurus/Translate';
 
 const FeatureList = [
   {
@@ -8,7 +9,7 @@ const FeatureList = [
     img: require('@site/static/img/cxui-logo.png').default,
     description: (
       <>
-        一个基于Flutter的界面UI组件.
+        An interface UI component based on Flutter.
       </>
     ),
   },
@@ -23,7 +24,7 @@ function Feature({img, title, description}) {
         <img className={styles.featureSvg} src={img} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
+        <Heading as="h3">{title} </Heading>
         <p>{description}</p>
       </div>
     </div>

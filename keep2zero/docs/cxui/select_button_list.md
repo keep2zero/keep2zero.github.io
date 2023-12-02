@@ -8,24 +8,24 @@ sidebar_position: 3
 
 ## API
 
-### 属性
+### Properties
 
-| 属性名 | 类型| 默认 | 说明|
+| Property | Type | Default | Description |
 | ------  | ---- | --- | --- |
-|  data   | List < String >  | |  数据列表 |
-|  fontSize  |  double | 14 |  字体大小  |
-|  size  |  double | 60 | 高度  |
-|  minWidth |  double | 50 |  最小宽度 |
-|  color |  Color  | Colors.white |  字体颜色 |
-|  selectColor |  Color | Colors.white | 选中的颜色  |
-|  bgColor |  Color | Colors.blue | 背景色  |
-|  selectBgColor | Color  | Colors.green |  选中的背景色 |
-|  boxColor | Color  | Colors.transparent | 盒子颜色  |
-|  defaultSelect |  int | 0 | 默认选中  |
-| topRight  | Widget  | | 右上角组件  |
-|  hasTopRight |  List < int > | |  有右上角组件的元素项 |
-|  padding | EdgeInsetsGeometry  | v:0, h: 16|  内间隙  |
-|  margin |  EdgeInsetsGeometry | 8 |  外间隙 |
+|  data   | List < String >  | |  data list |
+|  fontSize  |  double | 14 |  font size.  |
+|  size  |  double | 60 | height  |
+|  minWidth |  double | 50 |  min width |
+|  color |  Color  | Colors.white |  font color |
+|  selectColor |  Color | Colors.white | slection color  |
+|  bgColor |  Color | Colors.blue | background color  |
+|  selectBgColor | Color  | Colors.green |  background color for being selected. |
+|  boxColor | Color  | Colors.transparent | box color  |
+|  defaultSelect |  int | 0 | index selected by default  |
+| topRight  | Widget  | |  upper right corner component  |
+|  hasTopRight |  List < int > | |  items with upper right corner component|
+|  padding | EdgeInsetsGeometry  | v:0, h: 16|  padding  |
+|  margin |  EdgeInsetsGeometry | 8 |  margin |
 
 
  
@@ -33,8 +33,8 @@ sidebar_position: 3
  
    
 
-### 方法
+### Methods
 
-| 属性名 | 类型| 默认 | 说明|
+| Property | Type | Default | Description |
 | ------  | ---- | --- | --- |
-| onChange | Function | NAN | 改变事件 |
+| onChange | Function | NAN | change event |

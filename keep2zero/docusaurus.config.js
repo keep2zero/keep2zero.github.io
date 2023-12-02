@@ -9,7 +9,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'CX OPEN SOURCE',
-  tagline: '开源共享, 协作创新',
+  // tagline: '开源共享, 协作创新',
+  tagline: "Open source sharing, collaborative innovation",
   favicon: 'img/cx-logo.png',
 
   // Set the production url of your site here
@@ -31,7 +32,18 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'zh'],
+    path: 'i18n',
+    localeConfigs: {
+      en: {
+        label: 'English',
+        path: "/"
+      },
+      "zh": {
+        label: '简体中文',
+        path: "zh"
+      }
+    }
   },
 
   presets: [
@@ -84,18 +96,24 @@ const config = {
           {
             to: '/docs/cxui', label: 'Flutter Cxui', position: 'left'
           },
+
+          {
+            type: "localeDropdown",
+            position: 'right',
+          },
           {
             href: 'https://github.com/keep2zero',
             label: 'GitHub',
             position: 'right',
           },
+
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: '文档',
+            title: 'Document',
             items: [
               {
                 label: 'CXUI',
@@ -104,7 +122,7 @@ const config = {
             ],
           },
           {
-            title: '项目',
+            title: 'Projects',
             items: [
               {
                 label: 'Flutter Cxui',
@@ -115,7 +133,7 @@ const config = {
             ],
           },
           {
-            title: '更多',
+            title: 'More',
             items: [
               
               {
@@ -132,6 +150,8 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+ 
 };
 
 export default config;

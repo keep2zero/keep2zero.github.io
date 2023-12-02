@@ -8,25 +8,25 @@ sidebar_position: 8
 
 ## API
 
-### 属性
+### Properties
 
-| 属性名 | 类型| 默认 | 说明|
+| Property | Type | Default | Description|
 | ------  | ---- | --- | --- |
-| objects | List< SliderObject > | | 元素列表 |
-| height | double | 180 | 高度 |
-| titleColor | Color | Colors.white | 标题颜色 |
-| titleSize | double | 12 | 标题大小 |
+| objects | List< SliderObject > | |  data list |
+| height | double | 180 | height |
+| titleColor | Color | Colors.white | title color |
+| titleSize | double | 12 | the font size  of title|
 
 ```Dart
 class SliderObject {
-  String objName; //标题
-  String objCover; //图片
+  String objName; //title
+  String objCover; //image
   SliderObject(this.objName, this.objCover);
 }
 ```
 
-### 方法
+### Methods
 
-| 属性名 | 类型| 默认 | 说明|
+| Property | Type | Default | Description |
 | ------  | ---- | --- | --- |
-| onTap | void Function(SliderObject, int) | | 点击事件 |
+| onTap | void Function(SliderObject, int) | | click event |

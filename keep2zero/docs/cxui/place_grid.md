@@ -8,27 +8,26 @@ sidebar_position: 7
 
 ## API
 
-### 属性
+### Properties
 
-| 属性名 | 类型| 默认 | 说明|
+| Property | Type | Default | Description |
 | ------  | ---- | --- | --- |
-| items | List< PlaceGridItem > | | 元素列表 |
-| cols | int | 1 | 显示几列 |
-| space | double | 8 | 元素间隙 |
-| height | double | 80 | 高度 |
-| ratio | double | 1 | 显示比例 |
-| bgColor | Color | 透明色 | 背景色 |
+| items | List< PlaceGridItem > | | data list |
+| cols | int | 1 | show columns |
+| space | double | 8 | space |
+| height | double | 80 | height |
+| ratio | double | 1 | item ratio |
+| bgColor | Color | transparent | background color |
 
  ```Dart
 class PlaceGridItem {
-  IconData? icon; //图标
-  String? title; //标题
-  double? titleSize; //标题大小
-  Color? color; //颜色
-  Color? iconColor; //图标颜色
-  double? iconSize; //图标大小
+  IconData? icon; //icon data
+  String? title; // title
+  double? titleSize; // title size 
+  Color? color; // font color
+  Color? iconColor; //icon color
+  double? iconSize; //icon size
   PlaceGridItem({
-    this.icon,
     this.title,
     this.titleSize,
     this.color,
@@ -38,8 +37,8 @@ class PlaceGridItem {
 }
  ```
 
-### 方法
+### Methods
 
-| 属性名 | 类型| 默认 | 说明|
+| Property | Type | Default | Description|
 | ------  | ---- | --- | --- |
 | | | | |
